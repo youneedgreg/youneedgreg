@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 ## 🎓 Certifications
-
-
-- [Credly: Artificial Intelligence Fundamentals]([https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/0ac3a9a5-b14b-4134-9bb5-c9341f6dd870/public_url))
 - [Credly: Artificial Intelligence Fundamentals](https://www.credly.com/badges/0ac3a9a5-b14b-4134-9bb5-c9341f6dd870/public_url)
-- [https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/0ac3a9a5-b14b-4134-9bb5-c9341f6dd870/public_url)
 
 <!--
 **youneedgreg/youneedgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
