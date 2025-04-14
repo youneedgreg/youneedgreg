@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🎓 Certifications
 - [IBM Skills build: Artificial Intelligence Fundamentals](https://www.credly.com/badges/0ac3a9a5-b14b-4134-9bb5-c9341f6dd870/public_url)
 
