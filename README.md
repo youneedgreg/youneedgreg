@@ -1,5 +1,7 @@
 ## 🎓 Certifications
 - [IBM Skills build: Artificial Intelligence Fundamentals](https://www.credly.com/badges/0ac3a9a5-b14b-4134-9bb5-c9341f6dd870/public_url)
+- [HNG frontend certificate](https://certgo.app/c-7fed1e84)
+- [HNG backend certificate](https://certgo.app/c-b43f89e3)
 
 <!--
 **youneedgreg/youneedgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
