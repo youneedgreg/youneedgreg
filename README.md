@@ -9,12 +9,10 @@
 
 <p align="center">
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=youneedgreg&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=youneedgreg&theme=cobalt&hide_border=true"/></a>
   <br/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=youneedgreg&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **youneedgreg/youneedgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
