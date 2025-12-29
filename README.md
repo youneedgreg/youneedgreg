@@ -9,6 +9,7 @@
 
 <p align="center">
   <br/>
+  <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=youneedgreg&theme=cobalt&hide_border=true"/></a>
   <br/>
 </p>
