@@ -35,7 +35,7 @@ I build things that scale—from **web applications**, **microservice architectu
 | **[ConcussionAssessment](https://github.com/SanderGi/ConcussionAssessment)**  | Python / Healthcare |
 | **[rocketmq-rust](https://github.com/mxsm/rocketmq-rust)** | Rust / Messaging |
 
-**There are more contributions inside my repo, ranging from google repositories to more local repositories - all tools i frequently use**
+There are more contributions inside my repo, ranging from google repositories to more local repositories - all tools i frequently use
 ---
 
 ### 🔥 Featured Projects
@@ -47,7 +47,7 @@ I build things that scale—from **web applications**, **microservice architectu
 | **[chessy](https://github.com/youneedgreg/chessy)** | Minimalist chess training platform with instant feedback logic. | Next.js, TypeScript |
 | **[notification-system](https://github.com/youneedgreg/notification-system)** | Scalable microservices-based notification system via Docker. | Node.js, RabbitMQ |
 
-**There are more projects inside my repo, ranging from complex systems to more simple - all tools i frequently use**
+There are more projects inside my repo, ranging from complex systems to more simple - all tools i frequently use
 ---
 
 ### 📜 Certifications
