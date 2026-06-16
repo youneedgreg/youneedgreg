@@ -33,18 +33,20 @@
 
 ### 🛠️ the stack
 
-**web**  
+**web**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
 
-**backend & systems**  
+**backend & systems**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 
@@ -55,10 +57,11 @@
 | project | what it does | stack |
 | :--- | :--- | :--- |
 | **Safari OS** *(WIP)* | SaaS for safari operators — full ops platform | Next.js, TypeScript, Supabase |
-| **[Compono](https://github.com/youneedgreg/Compono)** | Visual builder for Shadcn UI components | React, TypeScript, Tailwind |
-| **[pesapal](https://github.com/youneedgreg/pesapal)** | RDBMS built from scratch — SQL parser, hash indexing | Python |
-| **[chessy](https://github.com/youneedgreg/chessy)** | Chess training platform with instant feedback | Next.js, TypeScript |
-| **[notification-system](https://github.com/youneedgreg/notification-system)** | Scalable microservices notification system | Node.js, RabbitMQ, Docker |
+| **[notification-system](https://github.com/youneedgreg/notification-system)** | 5-service microservices — email & push with RabbitMQ dead-letter queues, circuit breakers, Redis, Prometheus/Grafana observability | NestJS, RabbitMQ, Redis, Docker, Prometheus |
+| **[Flori-Core-Enterprise-OS](https://github.com/youneedgreg/Flori-Core-Enterprise-OS)** | Production-grade multi-tenant Agri-ERP — IoT field ops + time-series analytics + global logistics | TypeScript, TimescaleDB, Supabase, IoT |
+| **[pesapal](https://github.com/youneedgreg/pesapal)** | RDBMS built from scratch — custom SQL parser, hash-based indexing, JSON-backed storage | Python |
+| **[Compono](https://github.com/youneedgreg/Compono)** | Visual drag-and-drop builder for Shadcn UI components with real-time code export | React, TypeScript, Tailwind |
+| **[chessy](https://github.com/youneedgreg/chessy)** | Chess training platform with instant feedback and principled correction | Next.js, TypeScript |
 
 > there's more inside the repos — ranging from complex systems to small useful tools.
 
@@ -68,21 +71,23 @@
 
 | repo | what i touched |
 | :--- | :--- |
+| **[canonical/cloud-init](https://github.com/canonical/cloud-init)** | Python / Ubuntu cloud init system (active contributor) |
 | **[google/sbsim](https://github.com/google/sbsim)** | Python / Simulation |
 | **[MedSync-AI](https://github.com/tirth-patel06/MedSync-AI)** | Python / AI |
 | **[ConcussionAssessment](https://github.com/SanderGi/ConcussionAssessment)** | Python / Healthcare |
 | **[rocketmq-rust](https://github.com/mxsm/rocketmq-rust)** | Rust / Messaging |
 
-> contributions span Google repos, ML tooling, healthcare tech, and everyday tools i actually use.
+> contributions span Canonical, Google repos, ML tooling, healthcare tech, and everyday tools i actually use.
 
 ---
 
 ### 📚 currently learning
 
-- AI agents & LLM tooling in production
+- Linux internals & cloud-init (Ubuntu systems)
 - Distributed systems & consensus algorithms
+- Go for cloud-native tooling
 - Rust for performance-critical code
-- Making products people love
+- AI agents & LLM tooling in production
 
 ---
 
