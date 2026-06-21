@@ -44,11 +44,21 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
+
+**infra & observability**
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?logo=postgresql&logoColor=black&style=flat-square)
 
 ---
 
@@ -71,11 +81,12 @@
 
 | repo | what i touched |
 | :--- | :--- |
-| **[canonical/cloud-init](https://github.com/canonical/cloud-init)** | Python / Ubuntu cloud init system (active contributor) |
-| **[google/sbsim](https://github.com/google/sbsim)** | Python / Simulation |
+| **[canonical/tempo-operators](https://github.com/canonical/tempo-operators)** | Python / Charmed Observability Stack (open PRs) |
+| **[canonical/cos-alerter](https://github.com/canonical/cos-alerter)** | Python / Charmed Observability Stack (open PR) |
+| **[google/sbsim](https://github.com/google/sbsim)** | Python / Simulation (open PR) |
+| **[mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust)** | Rust / Messaging (merged) |
 | **[MedSync-AI](https://github.com/tirth-patel06/MedSync-AI)** | Python / AI |
 | **[ConcussionAssessment](https://github.com/SanderGi/ConcussionAssessment)** | Python / Healthcare |
-| **[rocketmq-rust](https://github.com/mxsm/rocketmq-rust)** | Rust / Messaging |
 
 > contributions span Canonical, Google repos, ML tooling, healthcare tech, and everyday tools i actually use.
 
