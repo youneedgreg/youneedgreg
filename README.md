@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  give me a laptop and internet and i will change your life.
+  Your are now not being recorded.
 </h3>
 
 <p align="center">
