@@ -77,16 +77,10 @@
 
 ---
 
-### 🌍 open source
-
-| repo | what i touched |
-| :--- | :--- |
-| **[canonical/tempo-operators](https://github.com/canonical/tempo-operators)** | Python / Charmed Observability Stack (open PRs) |
-| **[canonical/cos-alerter](https://github.com/canonical/cos-alerter)** | Python / Charmed Observability Stack (open PR) |
-| **[google/sbsim](https://github.com/google/sbsim)** | Python / Simulation (open PR) |
-| **[mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust)** | Rust / Messaging (merged) |
-| **[MedSync-AI](https://github.com/tirth-patel06/MedSync-AI)** | Python / AI |
-| **[ConcussionAssessment](https://github.com/SanderGi/ConcussionAssessment)** | Python / Healthcare |
+### Open Source Contributions
+- [canonical/tempo-operators #350](https://github.com/canonical/tempo-operators/pull/350) — refactored Terraform module to avoid hardcoded endpoints
+- [mxsm/rocketmq-rust #5342](https://github.com/mxsm/rocketmq-rust/pull/5342) — fixed `Producer::send` return type in the Rust client
+- 2 PRs open and under review at [google/sbsim](https://github.com/google/sbsim/pulls?q=author%3Ayouneedgreg) (Occupancy Module, Device Property Decorators)
 
 > contributions span Canonical, Google repos, ML tooling, healthcare tech, and everyday tools i actually use.
 
