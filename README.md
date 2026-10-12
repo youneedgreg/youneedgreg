@@ -29,7 +29,7 @@
 
 | project | what it is |
 | :--- | :--- |
-| **[Safari OS](https://safari-os-website.vercel.app)** | back office for high-end safari operators — enquiry → itinerary → invoice → dispatch, with AI drafting built in |
+| **[Safari OS](https://safari-13lgisjnw-gregory-temwas-projects.vercel.app/)** | back office for high-end safari operators — enquiry → itinerary → invoice → dispatch, with AI drafting built in |
 | **[OKLaw](https://github.com/youneedgreg/law-firm_management_system)** | practice management for a Kenyan law firm — court diary, trust accounting, billing, client portal |
 | **[Liquor POS](https://github.com/youneedgreg/lightweight-mobile-POS)** | offline-first point of sale for a real store — Android cashier app + web command center |
 | **[motion-studio](https://github.com/youneedgreg/motion-studio)** | motion graphics rendered from code, checked by numbers — plus an 8-lesson fact-checked course |
