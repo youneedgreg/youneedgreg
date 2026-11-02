@@ -20,7 +20,6 @@
 <p align="center">
   <img alt="open to work" src="https://img.shields.io/badge/open%20to%20work-%E2%9C%85-brightgreen?style=flat-square" />
   <img alt="based in nairobi, kenya" src="https://img.shields.io/badge/based%20in-nairobi%2C%20kenya-FF6F00?style=flat-square" />
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=youneedgreg&color=blueviolet&style=flat-square&label=profile+views" />
 </p>
 
 ---
