@@ -20,7 +20,6 @@
 <p align="center">
   <img alt="open to work" src="https://img.shields.io/badge/open%20to%20work-%E2%9C%85-brightgreen?style=flat-square" />
   <img alt="based in nairobi, kenya" src="https://img.shields.io/badge/based%20in-nairobi%2C%20kenya-FF6F00?style=flat-square" />
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=youneedgreg&color=blueviolet&style=flat-square&label=profile+views" />
 </p>
 
 ---
@@ -29,7 +28,7 @@
 
 | project | what it is |
 | :--- | :--- |
-| **[Safari OS](https://safari-13lgisjnw-gregory-temwas-projects.vercel.app/)** | back office for high-end safari operators — enquiry → itinerary → invoice → dispatch, with AI drafting built in |
+| **[Safari OS](https://safari-os-website.vercel.app)** | back office for high-end safari operators — enquiry → itinerary → invoice → dispatch, with AI drafting built in |
 | **[OKLaw](https://github.com/youneedgreg/law-firm_management_system)** | practice management for a Kenyan law firm — court diary, trust accounting, billing, client portal |
 | **[Liquor POS](https://github.com/youneedgreg/lightweight-mobile-POS)** | offline-first point of sale for a real store — Android cashier app + web command center |
 | **[motion-studio](https://github.com/youneedgreg/motion-studio)** | motion graphics rendered from code, checked by numbers — plus an 8-lesson fact-checked course |
@@ -58,10 +57,15 @@
 
 **merged**
 - [canonical/tempo-operators #350](https://github.com/canonical/tempo-operators/pull/350) — refactored the Terraform module to stop hardcoding endpoints
+  - outputs now read endpoint names from the coordinator sub-module, so a rename can't drift out of sync; helps anyone composing the module
 - [canonical/alertmanager-k8s-operator #445](https://github.com/canonical/alertmanager-k8s-operator/pull/445) — updated `show-config` docs to Juju 3.x syntax
+  - the old `juju run-action` example failed with `unrecognized command`; operators on Juju 3.x can now follow the README as written
 - [canonical/cos-alerter #95](https://github.com/canonical/cos-alerter/pull/95) — optional client key check for silencing
+  - teams with an authenticated dashboard can silence without the redundant key; opt-in, and it refuses to start unless the dashboard has its own address
 - [mxsm/rocketmq-rust #5342](https://github.com/mxsm/rocketmq-rust/pull/5342) — changed `Producer::send` to return `Option<SendResult>` in the Rust client
+  - developers using the client can now tell an error from a send with no result, and the public API matches what the internals already returned
 - [tirth-patel06/MedSync-AI #44](https://github.com/tirth-patel06/MedSync-AI/pull/44) — multilingual support for a healthcare assistant
+  - patients can read reports and medication instructions in english, spanish or hindi, with a readability score alongside
 
 **in review**
 - [canonical/hardware-api #588](https://github.com/canonical/hardware-api/pull/588) — `--verbosity` flag for the `hwctl` CLI
